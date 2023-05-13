@@ -1,4 +1,4 @@
-### Hi there, I'm Luke Lauther👋
+### Hi there, I'm Luke Lauther 👋
 
 <!--
 **lukelauther/lukelauther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
