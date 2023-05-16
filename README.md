@@ -22,10 +22,11 @@ Tech Stack:
 <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
 <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white'/>
 <br/>
-<br>
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lukelauther'/> -->
 📫 How to reach me:
-<a href='lukelauther1@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+<br>
+<a href='lukelauther1@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>\
+<a href='https://www.linkedin.com/in/lukelauther/'/><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <br/>
 
 <!--
