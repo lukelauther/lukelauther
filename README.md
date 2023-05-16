@@ -1,7 +1,6 @@
 <h1>Hi there, I'm Luke Lauther ✌️</h1>
 
-<h1>🖥 Tech Stack:</h1>
-<br>
+<h2>🖥 Tech Stack:</h2>
 <div>
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -24,15 +23,13 @@
   <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
   <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white'/>
 </div>
-<br/>
+
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lukelauther'/> -->
-<h1>🌐 Connect with me:</h1>
-<br>
+<h2>🌐 Connect with me:</h2>
 <div>
   <a href='lukelauther1@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   <a href='https://www.linkedin.com/in/lukelauther/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 </div>
-<br/>
 
 <!--
 **lukelauther/lukelauther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
