@@ -1,4 +1,4 @@
-### Hi there, I'm Luke Lauther 👋
+<h1>Hi there, I'm Luke Lauther ✌️</h1>
 
 <h1>🖥 Tech Stack:</h1>
 <br>
