@@ -1,8 +1,5 @@
 ### Hi there, I'm Luke Lauther 👋
 
-Tech Stack: 
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-
 <!--
 **lukelauther/lukelauther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
